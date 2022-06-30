@@ -1,0 +1,15 @@
+{
+    'name': 'Library Management',
+    'version': '1.0',
+    # 'summary': 'Odoo 15 Development Tutorials',
+    # 'sequence': -100,
+    'description': "Manage library book catalouge and lending",
+    'category': 'library',
+    'author': 'Mashael devlpoer',
+    'website': 'https://sahlat.co/',
+    'license': 'AGPL-3',
+    'depends': ['base'],
+    'application': True,
+    'installable': True,
+    'auto_install': True,
+}
